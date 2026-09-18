@@ -1,7 +1,6 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import AppLayout from "./components/layout/AppLayout";
-
 import Dashboard from "./Pages/Dashboard";
 import Inbox from "./Pages/Inbox";
 import Automation from "./Pages/Automation";
