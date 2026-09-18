@@ -2,12 +2,12 @@ import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 import AppLayout from "./components/layout/AppLayout";
 
-import Dashboard from "./pages/Dashboard";
-import Inbox from "./pages/Inbox";
-import Automation from "./pages/Automation";
-import Templates from "./pages/Templates";
-import Contacts from "./pages/Contacts";
-import Analytics from "./pages/Analytics";
+import Dashboard from "./Pages/Dashboard";
+import Inbox from "./Pages/Inbox";
+import Automation from "./Pages/Automation";
+import Templates from "./Pages/Templates";
+import Contacts from "./Pages/Contacts";
+import Analytics from "./Pages/Analytics";
 
 function App() {
   return (
