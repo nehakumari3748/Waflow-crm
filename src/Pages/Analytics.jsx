@@ -17,7 +17,7 @@ const messageData = [
   { day: "Mon", sent: 420, received: 310 },
   { day: "Tue", sent: 510, received: 380 },
   { day: "Wed", sent: 460, received: 350 },
-  { day: "Thu", sent: 620, received: 430 },
+  { day: "Thu", sent: 800, received: 200 },
   { day: "Fri", sent: 580, received: 410 },
   { day: "Sat", sent: 390, received: 280 },
   { day: "Sun", sent: 450, received: 320 },
